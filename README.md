@@ -1,1 +1,1 @@
-# sandbox
+Public sandbox repository
