@@ -7,6 +7,7 @@ package com.thomsonreuters.sample;
 
 /**
  * Program to test Java memory/thread allocation.
+ * AEA-1
  * 
  */
 public class GetMem implements Runnable {
